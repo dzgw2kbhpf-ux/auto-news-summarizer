@@ -1,4 +1,0 @@
-feedparser
-jinja2
-sumy
-lxml
