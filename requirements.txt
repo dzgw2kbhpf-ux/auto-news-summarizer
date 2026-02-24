@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+feedparser
+transformers
+torch
+jinja2
+apscheduler
+python-multipart
